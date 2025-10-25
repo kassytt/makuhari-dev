@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "makuhari.dev"
-  text: "幕張を中心としたIT/Web系開発者コミュニティ"
-  tagline: My great project tagline
+  name: "Makuhari.dev"
+  text: "幕張を中心としたIT系コミュニティ"
+  tagline: IT系の繋がりを作りましょう！
   actions:
     - theme: brand
       text: makuhari.devについて
@@ -13,10 +13,15 @@ hero:
     - theme: brand
       text: 運営元
       link: /organizer
+    - theme: brand
+      text: ご近所コミュニティ
+      link: /neighbors
 
 features:
-  - title: 幕張周辺でつながりをつくりましょう
-    details: 主に海浜幕張を中心とした、開発者コミュニティです
-  - title: ITに関わる人や興味がある人なら誰でも
-    details: IT業界で仕事をしている人、仕事をしていないが、興味があり、転職を考えている人まで、幅広く歓迎しています
+  - title: Makuhari.devとは？
+    details: 主に幕張を中心とした、ITコミュニティです。幕張にゆかりがあってもなくても歓迎です
+  - title: ITに興味がある人なら誰でも
+    details: IT関連の仕事をしている人、未経験だがITに興味がある人まで、幅広く歓迎しています。学生・社会人は問いません
+  - title: どんなことをするの？
+    details: 定期的な勉強会や、もくもく会などを実施します
 ---
