@@ -5,5 +5,5 @@
 ## [船橋dev](https://funabashi.dev/)
 * 主に船橋エリアで活動しているコミュニティです
 
-## [東葛dev](https://toukatsu.dev/)
+## [東葛.dev](https://toukatsu.dev/)
 * 主に東葛エリアで活動しているコミュニティです
