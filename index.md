@@ -8,7 +8,7 @@ hero:
   tagline: IT系の繋がりを作りましょう！
   actions:
     - theme: brand
-      text: makuhari.devについて
+      text: Makuhari.devについて
       link: /about
     - theme: brand
       text: 運営元

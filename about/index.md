@@ -1,5 +1,5 @@
 # About
 
-## makuhari.devとは
+## Makuhari.devとは
 
 ## 活動内容
