@@ -12,7 +12,7 @@ hero:
       link: /about
     - theme: brand
       text: 運営元
-      link: /organizer
+      link: https://www.digital-puzzle.co.jp/
     - theme: brand
       text: ご近所コミュニティ
       link: /neighbors
